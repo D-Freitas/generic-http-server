@@ -1,0 +1,31 @@
+{
+  "name": "generic-api",
+  "version": "1.0.0",
+  "description": "an generic api for learn",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/D-Freitas/generic-api.git"
+  },
+  "keywords": [
+    "generic",
+    "api",
+    "restful",
+    "http",
+    "module",
+    "http",
+    "request"
+  ],
+  "author": "Davi Freitas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D-Freitas/generic-api/issues"
+  },
+  "homepage": "https://github.com/D-Freitas/generic-api#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.3"
+  }
+}
